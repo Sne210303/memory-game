@@ -67,3 +67,7 @@ cardValues.forEach(letter => {
   const card = createCard(letter);
   board.appendChild(card);
 });
+
+document.getElementById("restart-btn").addEventListener("click", () => {
+    location.reload(); 
+  });

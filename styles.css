@@ -37,3 +37,30 @@ body {
     cursor: default;
   }
   
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .instructions {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  #restart-btn {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  #restart-btn:hover {
+    background-color: #45a049;
+  }
+  
