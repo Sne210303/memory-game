@@ -114,4 +114,12 @@ body {
   .rules ul {
     padding-left: 20px;
   }
+
+  .start-msg {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin: 15px 0;
+  }
+  
     
