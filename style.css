@@ -122,4 +122,21 @@ body {
     margin: 15px 0;
   }
   
+  #timer {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+
+  .card {
+    transition: transform 0.5s ease;
+    transform-style: preserve-3d;
+  }
+  
+  .card.flipped {
+    transform: rotateY(180deg);
+  }
+  
+  
     
