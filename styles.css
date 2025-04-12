@@ -63,4 +63,55 @@ body {
   #restart-btn:hover {
     background-color: #45a049;
   }
+
+  .setup {
+    text-align: left;
+    background-color: #fff;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
   
+  .setup h2 {
+    margin-top: 0;
+  }
+  
+  .setup ol {
+    padding-left: 20px;
+  }
+  
+
+  .how-to-play {
+    text-align: left;
+    background-color: #fff;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .how-to-play h2 {
+    margin-top: 0;
+  }
+  
+  .how-to-play ol {
+    padding-left: 20px;
+  }
+  .rules {
+    text-align: left;
+    background-color: #fff;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rules h2 {
+    margin-top: 0;
+  }
+  
+  .rules ul {
+    padding-left: 20px;
+  }
+    
